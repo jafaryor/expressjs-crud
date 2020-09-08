@@ -1,6 +1,9 @@
 {
   "name": "basic-crud",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "ExpressJS + Fuse + Helmet + Jest",
+  "author": "Jafar",
+  "license": "MIT",
   "scripts": {
     "build": "node build.js",
     "lint": "tslint --project \"tsconfig.json\"",
@@ -62,5 +65,16 @@
     "tsconfig-paths": "^3.9.0",
     "tslint": "^6.1.3",
     "typescript": "^3.9.7"
-  }
+  },
+  "keywords": [
+    "expressjs",
+    "helmet",
+    "fuse",
+    "nodejs",
+    "node.js",
+    "node",
+    "jest",
+    "nodemon",
+    "typescript"
+  ]
 }
