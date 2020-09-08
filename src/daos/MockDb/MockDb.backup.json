@@ -1,0 +1,39 @@
+{
+	"users": [
+    {
+			"id": 1,
+			"login": "hferraro0",
+			"password": "3upWySzL",
+			"age": 68,
+			"isDeleted": false
+		},
+		{
+			"id": 2,
+			"login": "akift1",
+			"password": "osIxz9nDuNaB",
+			"age": 52,
+			"isDeleted": false
+		},
+		{
+			"id": 3,
+			"login": "ehuster2",
+			"password": "xfEkiZCWK1",
+			"age": 24,
+			"isDeleted": false
+		},
+		{
+			"id": 4,
+			"login": "mdaymont3",
+			"password": "gyve2T",
+			"age": 80,
+			"isDeleted": false
+		},
+		{
+			"id": 5,
+			"login": "bglabach4",
+			"password": "dJROtOA",
+			"age": 17,
+			"isDeleted": false
+		}
+	]
+}
